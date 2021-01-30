@@ -1,5 +1,4 @@
-[
-  {
+{
     "haber1": {
       "haber-baslik": "Patch Notları v1.66",
       "haber-resim": "https://i.hizliresim.com/eX5WN8.png",
@@ -15,5 +14,4 @@
       "haber-resim": "https://i.hizliresim.com/XoaAgb.png",
       "haber-icerik": "<ol><li> Denemeeeeeeeeeeeeeeeeeeeeeeeeeeeeee </li></ol>" 
     }
-  }
-]
+}
