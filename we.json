@@ -1,17 +1,17 @@
 {
     "haber1": {
-      "haber-baslik": "Patch Notları v1.66",
-      "haber-resim": "https://i.hizliresim.com/eX5WN8.png",
-      "haber-icerik": "<ol><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123</li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123</li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li></ol>"
+      "baslik": "Patch Notları v1.66",
+      "resim": "https://i.hizliresim.com/eX5WN8.png",
+      "icerik": "<ol><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123</li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123</li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li><li>Deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 deneme test 123 </li></ol>"
     },
     "haber2": {
-      "haber-baslik": "Yeni Tasarımlar Yayınlandı! Pog",
-      "haber-resim": "https://i.hizliresim.com/XoaAgb.png",
-      "haber-icerik": "<ol><li> Yeni Tasarımlar Pog Pog Pog </li></ol>"
+      "baslik": "Yeni Tasarımlar Yayınlandı! Pog",
+      "resim": "https://i.hizliresim.com/XoaAgb.png",
+      "icerik": "<ol><li> Yeni Tasarımlar Pog Pog Pog </li></ol>"
     },
     "haber3": {
-      "haber-baslik": "Deneme Test",
-      "haber-resim": "https://i.hizliresim.com/XoaAgb.png",
-      "haber-icerik": "<ol><li> Denemeeeeeeeeeeeeeeeeeeeeeeeeeeeeee </li></ol>" 
+      "baslik": "Deneme Test",
+      "resim": "https://i.hizliresim.com/XoaAgb.png",
+      "icerik": "<ol><li> Denemeeeeeeeeeeeeeeeeeeeeeeeeeeeeee </li></ol>" 
     }
 }
